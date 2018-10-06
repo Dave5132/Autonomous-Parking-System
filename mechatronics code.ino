@@ -1,5 +1,3 @@
-Κώδικας Arduino
-
 #include "IRremote.h" //Βιβλιοθήκη για το IR Receiver
 #include <Servo.h> //Βιβλιοθήκη για την εισαγωγή αντικειμένου servo
 Servo myservo;  // Φτιάχνει ένα αντικείμενο servo που χρησιμοποιείται για την στροφή του μηχατρονίου
